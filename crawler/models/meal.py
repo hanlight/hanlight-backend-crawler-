@@ -4,7 +4,7 @@ from django.db import models
 
 class MealModel(models.Model):
     class Meta:
-        db_table = "MealModel"
+        db_table = 'MealModel'
         verbose_name = 'MealModel'
         verbose_name_plural = 'MealModel'
 

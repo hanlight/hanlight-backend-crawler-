@@ -1,1 +1,1 @@
-from crawler.models import calendar, meal, meal_order
+from crawler.models import calendar, notice, meal, meal_order

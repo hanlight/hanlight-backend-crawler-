@@ -1,4 +1,7 @@
 django==3.0.3
-django-cors-headers=3.2.1
+django-cors-headers==3.2.1
 django-debug-toolbar==2.2
 requests==2.22.0
+datetime==4.3
+selenium==3.141.0
+bs4==0.0.1
